@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and data science
 - 🌱 I’m currently learning java and AI
 - 💞️ I’m looking to collaborate on web applications and data science projects
-- 📫 You can reach me at : imanifadi777@gmail.com
+- 📫 You can reach me at : imanifadi777@gmail.com or fadi.imani@uit.ac.ma
 
 <!---
 fadimani/fadimani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
